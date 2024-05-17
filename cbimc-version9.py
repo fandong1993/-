@@ -13,7 +13,7 @@ def search_all_articles(keyword, page_size=20, channel=1, sort='date desc', site
     url = 'http://www.cbimc.cn/xy/Search.do'
     headers = {
         'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
-        'User-Agent': 'Will xiaoluo tognxue give everything she has to dongdong?'
+        'User-Agent': ' dongdong?'
     }
 
     articles = []
